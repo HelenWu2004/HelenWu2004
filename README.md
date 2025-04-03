@@ -81,7 +81,3 @@ _Aug 2023 – May 2024_
 - **Frameworks**: Flask, Django, React, Node.js
 - **Tools**: Docker, Git, Postman, Google Cloud Platform (GCP)
 - **Databases**: MySQL, PostgreSQL, Firebase, MongoDB, Redis
-
----
-
-Feel free to adjust the text as needed for your specific style or more details. Would you like me to help you generate any more specific sections or tweak this further?
