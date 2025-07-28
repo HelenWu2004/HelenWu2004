@@ -3,81 +3,89 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/haiyue-wu)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:haiyuew2@illinois.edu)
 
-I’m a passionate **Computer Science** and **Statistics** student at the University of Illinois Urbana-Champaign. I enjoy solving real-world problems and developing both front-end and back-end solutions. I’ve had the opportunity to work on multiple projects that involve **machine learning**, **deep learning**, **data science**, and **full-stack development**.
+I'm a junior at **UIUC** studying **Computer Science + Statistics** (GPA: 4.00/4.00), passionate about building scalable systems and solving impactful problems with code. I've interned at startups and research labs, worked across full-stack development, machine learning, and cloud infrastructure, and contributed to projects used by thousands.
 
-## 🚀 Skills/Working With
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092D1F?style=flat&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+---
 
 ## 🎓 Education
 
 **University of Illinois Urbana-Champaign**  
-_Bachelor of Science in Computer Science and Statistics_  
-_Graduating: May 2026_  
-**GPA**: 4.00/4.00
+_B.S. in Computer Science + Statistics_  
+**GPA**: 4.00/4.00  
+**Graduation**: May 2026
 
-**Relevant Coursework:** Algorithms, Cloud Database Management, Computational Photography, Text Information Systems, Computer Systems, Financial Engineering, High-Frequency Trading, Data Structures
+Relevant coursework: Algorithms, Computer Systems, Cloud Database Management, Financial Engineering, High-Frequency Trading, Data Structures, Information Systems, Text Information Retrieval
 
-## 💼 Work Experience
+---
+## 🛠️ Technical Stack
 
-### **Software Engineer Intern**  
-**UmiUni.com** — Sunnyvale, CA  
-_May 2024 – Aug 2024_
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=flat)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat&logo=huggingface&logoColor=black)
+![TensorBoard](https://img.shields.io/badge/TensorBoard-FF6F00?style=flat)
+![MapReduce](https://img.shields.io/badge/MapReduce-blue?style=flat)
+![Whisper](https://img.shields.io/badge/Whisper.cpp-grey?style=flat)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
-- Built a real-time chat app with WebSockets, MySQL, Redis, and RESTful APIs.
-- Refactored code, improving the frontend UI and backend Java code.
-- Utilized Google Analytics for data analysis and reporting.
+---
 
-### **Software Engineer Intern**  
-**MarWell Bio Inc** — Champaign, IL  
-_Jan 2025 – Present_
+## 💼 Experience
 
-- Processed large-scale data from public databases using RESTful APIs and Pandas.
-- Developed a FastAPI-based dataset management system with Docker containerization.
-- Automated testing with pytest for robust functionality.
+### 🧠 NLP Research Assistant @ UIUC CreateLab  
+**May 2025 – Present**  
+- Fine-tuned ES-Mistral-7B using LoRA on 10K+ corpus with multi-GPU PyTorch DDP (8× A100s), achieving 6× speedup.  
+- Built KG-based Retrieval-Augmented Generation (RAG) system that processes 500+ papers/day with 92% accuracy.  
+- Surpassed HippoRAG baseline by 8% on Recall@5 after analyzing 30+ RAG QA papers.
 
-### **Deep Learning Research Assistant**  
-**UIUC iSail Lab** — Champaign, IL  
-_May 2024 – Present_
+### ⚙️ Software Engineer Intern @ Integral Pivots (Toronto, Canada)  
+**May 2025 – Present**  
+- Built scalable backend using Go (Gin), PostgreSQL, and AWS Cognito within microservices architecture.  
+- Designed GitLab CI/CD pipeline with Docker, Kubernetes, and ECR enabling automated, production-safe deployments.  
+- Wrote ACID-compliant DB transactions and achieved 85% test coverage.
 
-- Published a paper on Graph Anomaly Detection for the WWW2025 Conference.
-- Investigated computer vision models like GAT and GCN using PyTorch.
-- Developed an encoder-decoder model for graph anomaly detection using GCN and GraphSAGE.
+### 💬 Software Engineer Intern @ UmiUni.com (Sunnyvale, CA)  
+**May 2024 – Aug 2024**  
+- Developed chat system with FastAPI + WebSockets (Socket.IO), scaling to 5,000+ users and 99.5% uptime.  
+- Integrated MySQL + Redis for hybrid caching, reducing response time by 40%.  
+- Refactored JS frontend, reduced code complexity by 25%; enabled analytics tracking across platforms.
 
-### **Course Assistant**  
-**CS107 Data Science Discovery** — Champaign, IL  
-_Aug 2023 – May 2024_
+### 🧪 Deep Learning Research Assistant @ UIUC iSAIL Lab  
+**May 2024 – May 2025**  
+- Co-authored WWW2025 paper on cluster-aware graph anomaly detection (CARE).  
+- Improved graph anomaly metrics (e.g., Recall@100 +12%) using GAT/GraphSAGE encoder-decoder models.  
+- Benchmarked unsupervised clustering methods, boosting AUC/precision/F1 across multiple datasets.
 
-- Led lab sessions and assisted over 300 students with GitHub/Python debugging.
-- Developed tutorials on Data Cleaning and Machine Learning.
+---
 
-## 🧑‍💻 Projects
+## 🚀 Selected Projects
 
-### **Recipe Search Engine**  
-- Developed a full-stack web app for recipe ranking and search using Next.js, React.js, TypeScript, and Firebase.
-- Integrated TF-IDF and Word2Vec for ranking algorithms, prioritizing recipes based on ingredient relevance and user preferences.
+### 🍲 FlavorConnect  
+- Full-stack recipe app using Next.js + Firebase + GCP with infinite scroll and lazy loading.  
+- Designed MapReduce TF-IDF ranker for 1M+ recipes, improving search relevance by 45%.  
+- Deployed scalable backend on Google Cloud Run using microservices pattern.
 
-### **Graph Anomaly Detection Model**  
-- Built a graph-based anomaly detection model using GCN and GraphSAGE, adapting ReContrast techniques for graph data.
+### 🎧 Local Zoom Transcription System  
+- Whisper.cpp + PyQt5 based GUI for real-time offline transcription without microphone interference.  
+- Enabled OBS Studio overlays and used LLaMA 3.1 8B for local academic phrase extraction.
 
-## 🛠 Technical Skills
 
-- **Languages**: Java, Python, C++, JavaScript, R
-- **Frameworks**: Flask, Django, React, Node.js
-- **Tools**: Docker, Git, Postman, Google Cloud Platform (GCP)
-- **Databases**: MySQL, PostgreSQL, Firebase, MongoDB, Redis
+---
+
+Thanks for visiting! Feel free to reach out or explore my projects._ 😄
